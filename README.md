@@ -1,6 +1,7 @@
 ## Hi there 👋
 My gists: (Usually my linux scripts. Might add more in the future)
 - [Connecting to Bremen Uni Vpn automatically without it requesting password everytime.](https://gist.github.com/0990ef81b98a6ab939a08c2bd49425c0.git)
+- [Poorman's osu supporter.](https://gist.github.com/71bddb5c85f84c35693408e7a3d1a251.git)
 <!--
 **EurobeatEnjoyer/EurobeatEnjoyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
